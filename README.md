@@ -27,9 +27,9 @@ Step 4. Run the api_test.py, you will see our simulation environment.
 
 ## Usage
 
-The experiment can be run by calling:
+The experiment can be run by calling the following code, where you may change the path to the environment file:
 ```Shell
-python main.py
+python submit_test.py
 ```
 
 
