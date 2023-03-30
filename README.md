@@ -31,6 +31,19 @@ The experiment can be run by calling the following code, where you may change th
 ```Shell
 python submit_test.py
 ```
+To train a new model by calling
+```Shell
+python train.py
+```
+
+## Assets
+In our repository, we provide demo vedio and experiment report where you can download for reference. All rights reserved. 
+
+## Credits
+
+This project was completed by Chao Li, Xiaodong Liu and Ming Sang in the University of Chinese Academy of Sciences (UCAS). Special thanks to my teammates for their support and help, still miss that summer when we worked together to complete this big challenge!
+
+
 
 
 
