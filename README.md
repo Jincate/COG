@@ -14,11 +14,17 @@ Step 2. Create virtual environment using conda.(you must have installed anaconda
 ```Shell
 conda env create -f environment_*.yml.
 
-```Shell
+```
 
 Step 3. Install the COG_API package with command:
 
+```Shell
+pip install CogEnvDecoder --upgrade
+```
+
 Step 4. Run the api_test.py, you will see our simulation environment.
+
+
 
 
 
