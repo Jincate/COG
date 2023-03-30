@@ -10,7 +10,7 @@ import random
 class Agent:
     def __init__(self, model_path=None):
         self.model_path = model_path
-        self.navigation_model_path = os.path.join(self.model_path, "2_1_reward/eva_reward_max")
+        self.navigation_model_path = os.path.join(self.model_path, "navigation/eva_reward_max")
         self.shoot_model_path = os.path.join(self.model_path, "shoot_policy/shoot")
         self.device = torch.device("cuda") if torch.cuda.is_available() else torch.device('cpu')
         self.state_dim = 9
