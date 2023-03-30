@@ -41,7 +41,13 @@ In our repository, we provide demo vedio and experiment report where you can dow
 
 ## Credits
 
-This project was completed by Chao Li, Xiaodong Liu and Ming Sang in the University of Chinese Academy of Sciences (UCAS). Special thanks to my teammates for their support and help, still miss that summer when we worked together to complete this big challenge!
+This project was completed by ==Chao Li, Xiaodong Liu and Ming Sang in the University of Chinese Academy of Sciences (UCAS)==. Special thanks to my teammates for their support and help, still miss that summer when we worked together to complete this big challenge!
+
+
+
+
+## Comments
+Miss you guys! 🍻 ——xiaodong 
 
 
 
