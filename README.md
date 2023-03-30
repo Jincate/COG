@@ -25,7 +25,12 @@ pip install CogEnvDecoder --upgrade
 
 Step 4. Run the api_test.py, you will see our simulation environment.
 
+## Usage
 
+The experiment can be run by calling:
+```Shell
+python main.py
+```
 
 
 
